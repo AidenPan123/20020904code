@@ -20,4 +20,4 @@ void main(){
  mciSendString( "play bk repeat", 0, 0, 0 );
  getchar();
 }
-init
+init2
